@@ -9,7 +9,8 @@ Gem::Specification.new do |spec|
   spec.email = ["6334+clayton@users.noreply.github.com"]
 
   spec.summary = "An AI Agent Framework for Ruby"
-  spec.description = "Magos is a framework for building AI agents in Ruby. It provides a set of tools for building agents that can learn and improve over time."
+  spec.description = "Magos is a framework for building AI agents in Ruby. " \
+                     "It provides a set of tools for building agents that can learn and improve over time."
   spec.homepage = "https://github.com/clayton/magos"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
